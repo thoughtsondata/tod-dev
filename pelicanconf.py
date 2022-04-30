@@ -3,7 +3,7 @@ SITENAME = 'Thoughts on Data'
 SITEURL = ''
 
 PATH = 'content'
-THEME = './themes/voce/'                          # make sure path points to folder where you cloned the theme
+THEME = 'voce'                          # make sure path points to folder where you cloned the theme
 DEFAULT_DATE_FORMAT = "%b %d, %Y"    
 
 TIMEZONE = 'Europe/Rome'
