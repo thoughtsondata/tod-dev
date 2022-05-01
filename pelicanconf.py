@@ -1,6 +1,6 @@
 AUTHOR = 'Ivey'
 SITENAME = 'Thoughts on Data'
-SITEURL = ''
+SITEURL = 'tod.dev'
 
 PATH = 'content'
 
@@ -17,8 +17,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (("Index", "/index.html"),
-            ("About", "pages/about.html"),
-        ('Mailing List', 'https://tally.so/r/3jRG13'),)
+        ('Mailing List', 'form.tod.dev'),)
 
 DISPLAY_PAGES_ON_MENU = True
 
