@@ -17,8 +17,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (("Index", "/index.html"),
-            ("About", "/about.html"),
-        ('Mailing List', 'https://docs.google.com/forms/d/e/1FAIpQLSdpjM_LVVvRCKhuFiYqemRuycfRChsM-Pr3nIho5mDO7c9qOw/viewform?usp=sf_link'),)
+            ("About", "pages/about.html"),
+        ('Mailing List', 'https://tally.so/r/3jRG13'),)
 
 DISPLAY_PAGES_ON_MENU = True
 
