@@ -17,7 +17,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (("Index", "/index.html"),
-        ('Mailing List', 'form.tod.dev'),)
+        ('Mailing List', 'https://form.tod.dev/'),)
 
 DISPLAY_PAGES_ON_MENU = True
 
